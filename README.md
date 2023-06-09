@@ -13,15 +13,15 @@ OR
 ### Install the dependencies
 
 ```sh
-npm install
+yarn install
 ```
 
 ## Development
 
-Running `npm start` to watch and transpile the `src` directory by parcel
+Running `yarn start` to watch and transpile the `src` directory by parcel
 
 For more info visits <https://parceljs.org/features/development/>
 
 ## Production
 
-Running `npm run build` to minify the code and output it to a folder called `dist` which is ready for deploy.
+Running `yarn build` to minify the code and output it to a folder called `dist` which is ready for deploy.
